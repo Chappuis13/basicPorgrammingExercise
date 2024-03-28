@@ -4,7 +4,7 @@ Study Program : Informatics Engineering
 
 Name : Dikri Ali              
 Student Number : 20230040064 
-Study Program : Informatic Engineering
+Study Program : Informatics Engineering
 
 Name : Mohammad Naufal Maulana
 Student Number : 20230040070
