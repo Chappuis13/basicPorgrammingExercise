@@ -1,8 +1,8 @@
 # String variable
-name = "Akmal Zaidan Hibatullah"
+name = "Chairil Sutisna"
 
 # Integer variable
-age = 19
+age = 18
 
 # Boolean variable
 isMale = True
