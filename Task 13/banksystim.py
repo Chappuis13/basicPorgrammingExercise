@@ -1,4 +1,4 @@
-import bankmodule as system
+import modulebank as system
 
 def main_menu():
     print('\nBanking System by Chappuis CS. Select Menu:')
